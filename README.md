@@ -14,7 +14,7 @@ In this repository, for Refoqus you will find:
 * :x: Source code (not available)
 * :x: The original tool (not available)
 
-This repository was constructed by [Haris M. Ansari](https://github.com/hmansari) and his team, under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr. Sonia Haiduc and his colleagues for their help in establishing this repository. 
+This repository was constructed by [Haris M. Ansari](https://github.com/hmansari) and his team, under the supervision of [Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Dr. Sonia Haiduc and her colleagues for their help in establishing this repository. 
 
 ## Attribution
 
