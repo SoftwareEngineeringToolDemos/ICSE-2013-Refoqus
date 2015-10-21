@@ -4,7 +4,7 @@ Query quality prediction and reformulation for source code search: the refoqus t
 
 ***
 
-This repository contains information related to the tool Refoqus presented in the International Conference on Software Engineering, 2013. This tool was presented in the paper titled " Query quality prediction and reformulation for source code search: the refoqus tool". You can find the paper [here](http://dl.acm.org/citation.cfm?id=2486991)
+This repository contains information related to the tool Refoqus presented in the International Conference on Software Engineering, 2013. This tool was presented in the paper titled " Query quality prediction and reformulation for source code search: the refoqus tool", presented by the authors 	Sonia Haiduc, Giuseppe De Rosa, Gabriele Bavota, Rocco Oliveto, Andrea De Lucia	and Andrian Marcu. You can find the paper [here](http://dl.acm.org/citation.cfm?id=2486991)
 
 This repository _is not_ the original repository for this tool. Here are some links to the original project:
 
